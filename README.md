@@ -15,3 +15,12 @@ The Smart Library Management System (SLMS) is a web-based application designed t
 Student Name: Vince Anthony A. Itura
 Course: IT3012
 Section: BSIT-SD 2C
+
+## Member Management Module
+
+Features
+- Register New Member
+- Update Member Information
+- Delete Member Record
+- Search Member
+
